@@ -1,5 +1,5 @@
 # WildEngine
-- 간단한 2D 그래픽 엔진
+- Simple 2D Software Rendering Engine Powerd by SDL2
 
 ## Contents
 - Windows Bitmap Loader
